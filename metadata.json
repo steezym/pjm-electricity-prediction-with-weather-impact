@@ -1,0 +1,5 @@
+{
+  "name": "PJM East Energy Forecasting Portfolio",
+  "description": "An interactive machine learning portfolio project showcasing hourly energy consumption forecasting using XGBoost and feature engineering.",
+  "requestFramePermissions": []
+}
